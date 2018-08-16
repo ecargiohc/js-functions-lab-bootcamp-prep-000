@@ -3,3 +3,5 @@ function happyHolidays(string) {return "Happy holidays!"}
 function happyHolidaysTo(Max) {return `Happy holidays, ${Max}!`}
 function happyHolidayTo(Christmas, Charles) {
   return `Happy ${Christmas}, ${Charles}!`}
+function holidayCountdown(seven, birthday) {
+  return `It's ${seven} days until ${birthday}!`}
